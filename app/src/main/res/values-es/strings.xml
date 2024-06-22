@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_message_name">Por favor, escribe tu nombre.</string>
+    <string name="toast_message_answer">Escribe una respuesta.</string>
+    <string name="dialog_exit_message">¿Seguro que quieres salir?</string>
+    <string name="button_yes">Sí</string>
+    <string name="button_no">No</string>
+
+    <string name="tvFelicidades">¡Excelente -!</string>
+    <string name="tvPuntuacionTotal">¡Bien hecho! Has resuelto todas las operaciones.</string>
+    <string name="bSalir">SALIR</string>
+    <string name="etNombre">Nombre</string>
+    <string name="bJugar">JUGAR</string>
+    <string name="tvMejorPuntuacion">Récord</string>
+    <string name="tvNivel1">NIVEL 1: Sumas I</string>
+    <string name="tvNombre">Jugador:</string>
+    <string name="tvPuntuacion">Puntuación:</string>
+    <string name="tvVidas">Vidas</string>
+    <string name="etRespuesta">Respuesta</string>
+    <string name="bComprobar">Comprobar</string>
+    <string name="tvNivel2">NIVEL 2: Sumas II</string>
+    <string name="tvNivel3">NIVEL 3: Restas I</string>
+    <string name="tvNivel4">NIVEL 4: Restas II</string>
+    <string name="tvNivel5">NIVEL 5: Multiplicaciones I</string>
+    <string name="tvNivel6">NIVEL 6: Multiplicaciones II</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">FruitMathsApp</string>
+    <string name="toast_message_name">Please, write your name.</string>
+    <string name="toast_message_answer">Write an answer.</string>
+    <string name="dialog_exit_message">Are you sure you want to exit?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+    <string name="tvFelicidades">Excellent -!</string>
+    <string name="tvPuntuacionTotal">Well done! You have solved all the operations.</string>
+    <string name="bSalir">EXIT</string>
+    <string name="etNombre">Name</string>
+    <string name="bJugar">PLAY</string>
+    <string name="tvMejorPuntuacion">Record</string>
+    <string name="tvNivel1">LEVEL I: Sums I</string>
+    <string name="tvNombre">Player:</string>
+    <string name="tvPuntuacion">Score:</string>
+    <string name="tvVidas">Lives</string>
+    <string name="etRespuesta">Answer</string>
+    <string name="bComprobar">Check</string>
+    <string name="tvNivel2">LEVEL II: Sums II</string>
+    <string name="tvNivel3">LEVEL 3: Subtractions I</string>
+    <string name="tvNivel4">LEVEL 4: Subtractions II</string>
+    <string name="tvNivel5">LEVEL 5: Multiplications I</string>
+    <string name="tvNivel6">LEVEL 6: Multiplications II</string>
+</resources>
