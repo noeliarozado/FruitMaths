@@ -1,6 +1,6 @@
 # FRUITMATHS APP
 
-Bilingual mobile app (English/Spanish) developed in **Android Studio** and designed to make practicing **basic arithmetic operations** (addition, subtraction, multiplication and division) enjoyable and engaging through **gamification**.
+Bilingual mobile app (English/Spanish) developed in **Android Studio** and designed to make practicing **basic arithmetic operations** (addition, subtraction and multiplication) enjoyable and engaging through **gamification**.
 
 ## FEATURES AND FUNCTIONALITY
 
